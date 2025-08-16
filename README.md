@@ -1,2 +1,2 @@
-# Student-Database-Management-System
-This was my grade 12 final project. I created a student management system to enroll students, keep track of grades, modify information, sort them and more all with a basic menu system and password protection. 
+# Student Database Management System
+This was my grade 12 final project. I created a student management system using CSV files to enroll students, keep track of grades, modify information, sort them and more all with a basic menu system and password protection. This system reads from files, writes on them, overwrites when user chooses to modify informations, lets them create a new user id, deletes students and save their aggregates in a file. 
